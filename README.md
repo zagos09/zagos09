@@ -22,23 +22,6 @@ I believe in learning by doing — every project here solves a real problem.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 Autonomous AI Coding Agent
-> Python · Gemini API
-
-A CLI assistant that generates, executes, and self-corrects code using a recursive debugging loop. Captures stderr, reasons through failures, and fixes them without human intervention.  
-→ [View Repository](#)
-
----
-
-### 🎮 Asteroids Arcade Game
-> Python · Pygame
-
-Fully functional arcade game built with OOP principles. Manages 20+ simultaneous dynamic entities using vector mathematics for movement and collision detection.  
-→ [View Repository](#)
-
----
 
 ## 💼 Experience
 
