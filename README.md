@@ -7,7 +7,7 @@
 
 ## 🎯 About Me
 
-I'm an IT professional currently working as an IT Operations Trainee at **Vodafone Panafon**, embedded in the Order Management & Provisioning Domains team. My background is in Python backend development and I'm actively building toward a career in **DevOps and Site Reliability Engineering**.
+I'm an IT professional currently working as an IT Operations Trainee at **Vodafone**, embedded in the Order Management & Provisioning Domains team. My background is in Python backend development and I'm actively building toward a career in **DevOps and Site Reliability Engineering**.
 
 I believe in learning by doing — every project here solves a real problem.
 
@@ -25,7 +25,7 @@ I believe in learning by doing — every project here solves a real problem.
 
 ## 💼 Experience
 
-**IT Operations Trainee** · Vodafone Panafon SA *(Mar 2026 – Present)*  
+**IT Operations Trainee** · Vodafone*(Mar 2026 – Present)*  
 Working within the Order Management & Provisioning Domains team in a hybrid enterprise environment.
 
 **Restaurant Manager** · Meropi Restaurant *(May 2020 – Dec 2025)*  
